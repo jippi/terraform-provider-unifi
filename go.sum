@@ -140,8 +140,8 @@ github.com/hashicorp/terraform-exec v0.17.2 h1:EU7i3Fh7vDUI9nNRdMATCEfnm9axzTnad
 github.com/hashicorp/terraform-exec v0.17.2/go.mod h1:tuIbsL2l4MlwwIZx9HPM+LOV9vVyEfBYu2GsO1uH3/8=
 github.com/hashicorp/terraform-json v0.14.0 h1:sh9iZ1Y8IFJLx+xQiKHGud6/TSUCM0N8e17dKDpqV7s=
 github.com/hashicorp/terraform-json v0.14.0/go.mod h1:5A9HIWPkk4e5aeeXIBbkcOvaZbIYnAIkEyqP2pNSckM=
-github.com/hashicorp/terraform-plugin-docs v0.12.0 h1:EAvFVEoV/wj15t/VSeKVpnAd+BBnIxzYepAnScBWrU4=
-github.com/hashicorp/terraform-plugin-docs v0.12.0/go.mod h1:HVn60yjtl4XxLINPgNmPCwX8SQ4T99Ut9CTD/ac6i5w=
+github.com/hashicorp/terraform-plugin-docs v0.13.0 h1:6e+VIWsVGb6jYJewfzq2ok2smPzZrt1Wlm9koLeKazY=
+github.com/hashicorp/terraform-plugin-docs v0.13.0/go.mod h1:W0oCmHAjIlTHBbvtppWHe8fLfZ2BznQbuv8+UD8OucQ=
 github.com/hashicorp/terraform-plugin-go v0.9.1 h1:vXdHaQ6aqL+OF076nMSBV+JKPdmXlzG5mzVDD04WyPs=
 github.com/hashicorp/terraform-plugin-go v0.9.1/go.mod h1:ItjVSlQs70otlzcCwlPcU8FRXLdO973oYFRZwAOxy8M=
 github.com/hashicorp/terraform-plugin-log v0.4.1 h1:xpbmVhvuU3mgHzLetOmx9pkOL2rmgpu302XxddON6eo=
@@ -150,8 +150,6 @@ github.com/hashicorp/terraform-plugin-sdk/v2 v2.17.0 h1:Qr5fWNg1SPSfCRMtou67Y6Kc
 github.com/hashicorp/terraform-plugin-sdk/v2 v2.17.0/go.mod h1:b+LFg8WpYgFgvEBP/6Htk5H9/pJp1V1E8NJAekfH2Ws=
 github.com/hashicorp/terraform-registry-address v0.0.0-20220510144317-d78f4a47ae27 h1:IOawOnLgKntezAV3oJs17rkhXha+h0EF5OMjb2KFlYc=
 github.com/hashicorp/terraform-registry-address v0.0.0-20220510144317-d78f4a47ae27/go.mod h1:Wn3Na71knbXc1G8Lh+yu/dQWWJeFQEpDeJMtWMtlmNI=
-github.com/hashicorp/terraform-registry-address v0.0.0-20220623143253-7d51757b572c h1:D8aRO6+mTqHfLsK/BC3j5OAoogv1WLRWzY1AaTo3rBg=
-github.com/hashicorp/terraform-registry-address v0.0.0-20220623143253-7d51757b572c/go.mod h1:Wn3Na71knbXc1G8Lh+yu/dQWWJeFQEpDeJMtWMtlmNI=
 github.com/hashicorp/terraform-svchost v0.0.0-20200729002733-f050f53b9734 h1:HKLsbzeOsfXmKNpr3GiT18XAblV0BjCbzL8KQAMZGa0=
 github.com/hashicorp/terraform-svchost v0.0.0-20200729002733-f050f53b9734/go.mod h1:kNDNcF7sN4DocDLBkQYz73HGKwN1ANB1blq4lIYLYvg=
 github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87 h1:xixZ2bWeofWV68J+x6AzmKuVM/JWCQwkWm6GW/MUR6I=
